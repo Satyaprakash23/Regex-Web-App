@@ -16,7 +16,7 @@ Flask Regex Matcher is a web application built with Flask that allows users to i
 
 ## Deployment
 
-The Flask Regex Matcher is deployed on an AWS EC2 instance for public access. The application is accessible [here](http://3.92.163.66:5000/).
+The Flask Regex Matcher is deployed on an AWS EC2 instance for public access. The application is accessible [here](http://52.55.253.83:5000/).
 
 ## Technologies Used
 
