@@ -23,3 +23,7 @@ The Flask Regex Matcher is deployed on an AWS EC2 instance for public access. Th
 - Python
 - Flask
 - AWS EC2
+
+Note: The AWS instance has been stopped and hence the site can't be accessed temporarily.Kindly go through the demo below:
+https://github.com/Satyaprakash23/Regex-Web-App/assets/100572763/358d7591-05b1-460f-8783-520cffd5cc05
+
